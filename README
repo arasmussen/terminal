@@ -1,0 +1,1 @@
+Toying with the idea of a custom (linux-like) interactive browser terminal that does most of the hard work on the server side but still is performant using WebSockets.
