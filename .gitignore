@@ -1,0 +1,13 @@
+## swap files for vim
+
+.*.swp
+
+
+## node_modules stuff
+
+node_modules/*/build/*
+
+
+## local configuration
+
+server/LocalConfig.js
